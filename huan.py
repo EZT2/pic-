@@ -3,7 +3,7 @@ import os
 
 def compress_and_convert(source_path, dest_path, quality=50, format='JPEG'):
     """
-    压缩和转换图片格式
+   转换图片格式
     :param source_path: 原图片路径
     :param dest_path: 目标图片路径
     :param quality: 图片质量，取值范围0-100，默认为50
